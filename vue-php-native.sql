@@ -21,9 +21,9 @@ LOCK TABLES `user` WRITE;
 
 INSERT INTO `user` (`id`, `nama`, `email`, `alamat`)
 VALUES
-	(1,'Ian Mustafa','mail@ianmustafa.com','Bojonegoro'),
-	(2,'Rohman Muhamad','romen@ianmustafa.com','Jakarta'),
-	(3,'Fatan Nugraha','fatan@ianmustafa.com','Surabaya');
+	(1,'Mutia Irnawati','mutiairnawati@gmail.com','Bekasi'),
+	(2,'Ayam Jerid','ayamjerid@gmail.com','Jakarta'),
+	(3,'Contact Goteach','contact.goteach@gmail.com','Surabaya');
 
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
